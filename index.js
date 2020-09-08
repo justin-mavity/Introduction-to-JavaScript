@@ -196,8 +196,6 @@ console.log(toCentimeters(1));
 
 
 
-
-
 /************************************************************** Task 7 **************************************************************/
 //Grade Calculator
 //write a javaScript program that takes a mark out of 100 and returns a corisponding letter grade 
